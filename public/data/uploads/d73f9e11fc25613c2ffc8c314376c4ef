@@ -1,0 +1,48 @@
+﻿[16-07-22 19:20:46] info: Program: Starting Squirrel Updater: --update https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.2
+[16-07-22 19:20:46] info: Program: Starting update, downloading from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.2
+[16-07-22 19:20:46] info: Program: About to update to: C:\Users\uttuc\AppData\Local\MongoDBCompass
+[16-07-22 19:20:46] info: CheckForUpdateImpl: Using existing staging user ID: cb438d58-6b57-533d-8c17-c887cf3e2dff
+[16-07-22 19:20:46] info: CheckForUpdateImpl: Downloading RELEASES file from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.2
+[16-07-22 19:20:46] info: FileDownloader: Downloading url: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.2/RELEASES?id=MongoDBCompass&localVersion=1.32.2&arch=amd64
+[16-07-22 19:20:48] info: FileDownloader: Downloading file: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.2/MongoDBCompass-1.32.3-full.nupkg
+[16-07-22 19:27:07] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.32.3
+[16-07-22 19:27:12] info: LogHost: Rigging execution stub for MongoDBCompass_ExecutionStub.exe to C:\Users\uttuc\AppData\Local\MongoDBCompass\MongoDBCompass.exe
+[16-07-22 19:27:16] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.32.3\MongoDBCompass.exe]
+[16-07-22 19:27:17] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[16-07-22 19:27:17] info: ApplyReleasesImpl: Fixing up tray icons
+[16-07-22 19:27:17] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 1.32.3
+[16-07-22 19:27:17] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.32.2
+[16-07-22 19:27:17] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-1.32.3
+[16-07-22 19:27:20] info: Program: Finished Squirrel Updater
+[20-07-22 11:00:18] info: Program: Starting Squirrel Updater: --update https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.3
+[20-07-22 11:00:18] info: Program: Starting update, downloading from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.3
+[20-07-22 11:00:18] info: Program: About to update to: C:\Users\uttuc\AppData\Local\MongoDBCompass
+[20-07-22 11:00:18] info: CheckForUpdateImpl: Using existing staging user ID: cb438d58-6b57-533d-8c17-c887cf3e2dff
+[20-07-22 11:00:18] info: CheckForUpdateImpl: Downloading RELEASES file from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.3
+[20-07-22 11:00:19] info: FileDownloader: Downloading url: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.3/RELEASES?id=MongoDBCompass&localVersion=1.32.3&arch=amd64
+[20-07-22 11:00:20] info: FileDownloader: Downloading file: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.3/MongoDBCompass-1.32.4-full.nupkg
+[20-07-22 11:01:08] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.32.4
+[20-07-22 11:01:10] info: LogHost: Rigging execution stub for MongoDBCompass_ExecutionStub.exe to C:\Users\uttuc\AppData\Local\MongoDBCompass\MongoDBCompass.exe
+[20-07-22 11:01:12] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.32.4\MongoDBCompass.exe]
+[20-07-22 11:01:12] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[20-07-22 11:01:12] info: ApplyReleasesImpl: Fixing up tray icons
+[20-07-22 11:01:12] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 1.32.4
+[20-07-22 11:01:12] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.32.3
+[20-07-22 11:01:12] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-1.32.4
+[20-07-22 11:01:14] info: Program: Finished Squirrel Updater
+[24-12-22 10:13:34] info: Program: Starting Squirrel Updater: --update https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.4
+[24-12-22 10:13:34] info: Program: Starting update, downloading from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.4
+[24-12-22 10:13:34] info: Program: About to update to: C:\Users\uttuc\AppData\Local\MongoDBCompass
+[24-12-22 10:13:34] info: CheckForUpdateImpl: Using existing staging user ID: cb438d58-6b57-533d-8c17-c887cf3e2dff
+[24-12-22 10:13:34] info: CheckForUpdateImpl: Downloading RELEASES file from https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.4
+[24-12-22 10:13:34] info: FileDownloader: Downloading url: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.4/RELEASES?id=MongoDBCompass&localVersion=1.32.4&arch=amd64
+[24-12-22 10:13:36] info: FileDownloader: Downloading file: https://compass.mongodb.com/api/v2/update/compass/stable/windows/1.32.4/MongoDBCompass-1.34.2-full.nupkg
+[24-12-22 10:18:08] info: ApplyReleasesImpl: Writing files to app directory: C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.34.2
+[24-12-22 10:18:10] info: LogHost: Rigging execution stub for MongoDBCompass_ExecutionStub.exe to C:\Users\uttuc\AppData\Local\MongoDBCompass\MongoDBCompass.exe
+[24-12-22 10:18:12] info: ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\uttuc\AppData\Local\MongoDBCompass\app-1.34.2\MongoDBCompass.exe]
+[24-12-22 10:18:13] info: ApplyReleasesImpl: Starting fixPinnedExecutables
+[24-12-22 10:18:13] info: ApplyReleasesImpl: Fixing up tray icons
+[24-12-22 10:18:13] info: ApplyReleasesImpl: cleanDeadVersions: checking for version 1.34.2
+[24-12-22 10:18:13] info: ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.32.4
+[24-12-22 10:18:13] info: ApplyReleasesImpl: cleanDeadVersions: exclude new version folder app-1.34.2
+[24-12-22 10:18:14] info: Program: Finished Squirrel Updater
